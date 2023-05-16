@@ -1,1 +1,1 @@
-# Algorithm.Ww
+# Algorithm.factorialize(n)
